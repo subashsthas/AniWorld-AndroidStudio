@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "145679886875",
+    "firebase_url": "https://animeworld-97e75.firebaseio.com",
+    "project_id": "animeworld-97e75",
+    "storage_bucket": "animeworld-97e75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145679886875:android:75d20b515b766317a6e6be",
+        "android_client_info": {
+          "package_name": "com.example.animeworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145679886875-0dm4h8aomdt6bvha6ld8s6mdbk9o08ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.animeworld",
+            "certificate_hash": "2528e96da72c46761f82ff5a7aa62eb8e13ca829"
+          }
+        },
+        {
+          "client_id": "145679886875-jqp8d7ca7odgits4n9oa0geq2kjdg6pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2WYVgsEF1x-vp1t5TWEu5b7IFB05AHbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145679886875-jqp8d7ca7odgits4n9oa0geq2kjdg6pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145679886875:android:58540575e462827aa6e6be",
+        "android_client_info": {
+          "package_name": "com.example.haudefragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145679886875-jqp8d7ca7odgits4n9oa0geq2kjdg6pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2WYVgsEF1x-vp1t5TWEu5b7IFB05AHbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145679886875-jqp8d7ca7odgits4n9oa0geq2kjdg6pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
